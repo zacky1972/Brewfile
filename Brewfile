@@ -26,6 +26,7 @@ brew cabal-install
 brew cairo
 brew cask
 brew dirmngr
+brew docker
 brew emacs
 brew ffmpeg
 brew fontconfig
