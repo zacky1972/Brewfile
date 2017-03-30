@@ -27,6 +27,8 @@ brew cairo
 brew cask
 brew dirmngr
 brew docker
+brew docker-compose
+brew docker-machine
 brew emacs
 brew ffmpeg
 brew fontconfig
@@ -73,6 +75,7 @@ brew libtool
 brew libusb
 brew libusb-compat
 brew libvo-aacenc
+brew libyaml
 brew little-cms2
 brew mas
 brew md5sha1sum
@@ -120,6 +123,7 @@ appstore 490192174 Battery Health (5.4)
 appstore 408980954 GarageBand (6.0.5)
 appstore 408981434 iMovie (10.1.4)
 appstore 408981434 iMovie 9.0.9 (9.0.9)
+appstore 1018109117 Install OS X El Capitan (1.7.50)
 appstore 408981381 iPhoto (9.6.1)
 appstore 409183694 Keynote (7.1)
 appstore 539883307 LINE (4.12.2)
