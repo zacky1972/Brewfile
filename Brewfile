@@ -20,6 +20,7 @@ cask zoomus
 tap homebrew/bundle
 
 tap homebrew/core
+brew adns
 brew atk
 brew autoconf
 brew cabal-install
@@ -44,7 +45,7 @@ brew git-flow
 brew glib
 brew gmp
 brew gnupg
-brew gnupg2
+brew gnutls
 brew gobject-introspection
 brew gpg-agent
 brew graphviz
@@ -67,11 +68,14 @@ brew libepoxy
 brew libffi
 brew libgcrypt
 brew libgpg-error
+brew libiconv
 brew libksba
 brew libpng
 brew librsvg
+brew libtasn1
 brew libtiff
 brew libtool
+brew libunistring
 brew libusb
 brew libusb-compat
 brew libvo-aacenc
@@ -80,9 +84,12 @@ brew little-cms2
 brew mas
 brew md5sha1sum
 brew netpbm
+brew nettle
 brew nkf
 brew node
+brew npth
 brew openssl
+brew p11-kit
 brew pango
 brew pcre
 brew pinentry
@@ -108,7 +115,6 @@ brew xz
 brew youtube-dl
 
 tap homebrew/dupes
-brew libiconv
 
 tap homebrew/gui
 
@@ -118,11 +124,12 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 443987910 1Password (6.6.3)
+appstore 443987910 1Password (6.6.4)
 appstore 490192174 Battery Health (5.4)
 appstore 408980954 GarageBand (6.0.5)
 appstore 408981434 iMovie (10.1.4)
 appstore 408981434 iMovie 9.0.9 (9.0.9)
+appstore 1018109117 Install OS X El Capitan (1.7.50)
 appstore 1018109117 Install OS X El Capitan (1.7.50)
 appstore 408981381 iPhoto (9.6.1)
 appstore 409183694 Keynote (7.1)
