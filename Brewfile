@@ -124,12 +124,13 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 443987910 1Password (6.6.4)
+appstore 443987910 1Password (6.7)
 appstore 490192174 Battery Health (5.4)
 appstore 682658836 GarageBand (10.1.6)
 appstore 408980954 GarageBand 6.0.5 (6.0.5)
 appstore 408981434 iMovie (10.1.5)
 appstore 408981434 iMovie 9.0.9 (9.0.9)
+appstore 1018109117 Install OS X El Capitan (1.7.50)
 appstore 1018109117 Install OS X El Capitan (1.7.50)
 appstore 408981381 iPhoto (9.6.1)
 appstore 409183694 Keynote (7.1.1)
