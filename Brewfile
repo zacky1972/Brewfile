@@ -83,6 +83,7 @@ brew libyaml
 brew little-cms2
 brew mas
 brew md5sha1sum
+brew mit-scheme
 brew netpbm
 brew nettle
 brew nkf
@@ -103,6 +104,7 @@ brew pygtk
 brew python
 brew rbenv
 brew readline
+brew rlwrap
 brew ruby-build
 brew shared-mime-info
 brew sqlite
@@ -130,7 +132,6 @@ appstore 682658836 GarageBand (10.1.6)
 appstore 408980954 GarageBand 6.0.5 (6.0.5)
 appstore 408981434 iMovie (10.1.5)
 appstore 408981434 iMovie 9.0.9 (9.0.9)
-appstore 1018109117 Install OS X El Capitan (1.7.50)
 appstore 1018109117 Install OS X El Capitan (1.7.50)
 appstore 408981381 iPhoto (9.6.1)
 appstore 409183694 Keynote (7.1.1)
