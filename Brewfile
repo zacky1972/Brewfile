@@ -79,6 +79,7 @@ brew libunistring
 brew libusb
 brew libusb-compat
 brew libvo-aacenc
+brew libxml2
 brew libyaml
 brew little-cms2
 brew mas
@@ -103,6 +104,7 @@ brew pygobject
 brew pygtk
 brew python
 brew rbenv
+brew rbenv-gemset
 brew readline
 brew rlwrap
 brew ruby-build
@@ -140,5 +142,6 @@ appstore 409203825 Numbers (4.1.1)
 appstore 711830901 OmniGraffle (6.6.1)
 appstore 409201541 Pages (6.1.1)
 appstore 568494494 Pocket (1.6.2)
-appstore 803453959 Slack (2.5.2)
+appstore 803453959 Slack (2.6.0)
 appstore 409789998 Twitter (4.3.2)
+appstore 497799835 Xcode (8.3.2)
