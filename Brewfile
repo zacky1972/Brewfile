@@ -117,6 +117,8 @@ brew x264
 brew xvid
 brew xz
 brew youtube-dl
+brew zsh
+brew zsh-completions
 
 tap homebrew/dupes
 
