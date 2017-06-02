@@ -92,6 +92,7 @@ brew nkf
 brew node
 brew npth
 brew openssl
+brew openssl@1.1
 brew p11-kit
 brew pango
 brew pcre
@@ -140,10 +141,11 @@ appstore 490152466 iBooks Author (2.5)
 appstore 408981434 iMovie (10.1.6)
 appstore 408981381 iPhoto (9.6.1)
 appstore 409183694 Keynote (7.1.1)
+appstore 405399194 Kindle (1.10.6)
 appstore 539883307 LINE (5.1.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.27287)
 appstore 409203825 Numbers (4.1.1)
-appstore 711830901 OmniGraffle (6.6.1)
+appstore 711830901 OmniGraffle (6.6.2)
 appstore 409201541 Pages (6.1.1)
 appstore 568494494 Pocket (1.6.2)
 appstore 1035516352 ScanSnap Cloud (1.2.10)
