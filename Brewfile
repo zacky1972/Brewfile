@@ -12,6 +12,7 @@ cask github-desktop
 cask google-chrome
 cask handbrake
 cask java
+cask kindle
 cask macdown
 cask skype
 cask sublime-text
