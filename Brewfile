@@ -136,6 +136,7 @@ brew brew-file
 appstore 443987910 1Password (6.7)
 appstore 648746831 AirJoy (1.0.0)
 appstore 490192174 Battery Health (5.4)
+appstore 425264550 Blackmagic Disk Speed Test (3.1)
 appstore 430288399 BooklogScanForMac (1.0.0)
 appstore 406056744 Evernote (6.11.1)
 appstore 682658836 GarageBand (10.2.0)
