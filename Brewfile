@@ -49,6 +49,7 @@ brew gnupg
 brew gnutls
 brew gobject-introspection
 brew gpg-agent
+brew graphite2
 brew graphviz
 brew gsettings-desktop-schemas
 brew gtk+
@@ -106,6 +107,7 @@ brew py2cairo
 brew pygobject
 brew pygtk
 brew python
+brew python3
 brew rbenv
 brew rbenv-gemset
 brew readline
@@ -147,7 +149,7 @@ appstore 409183694 Keynote (7.1.1)
 appstore 539883307 LINE (5.1.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.27287)
 appstore 409203825 Numbers (4.1.1)
-appstore 711830901 OmniGraffle (6.6.1)
+appstore 711830901 OmniGraffle (6.6.2)
 appstore 409201541 Pages (6.1.1)
 appstore 568494494 Pocket (1.6.2)
 appstore 1035516352 ScanSnap Cloud (1.2.10)
