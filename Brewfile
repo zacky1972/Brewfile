@@ -63,6 +63,7 @@ brew jasper
 brew jbig2dec
 brew jpeg
 brew lame
+brew lha
 brew libassuan
 brew libcroco
 brew libdvdcss
@@ -146,7 +147,7 @@ appstore 490152466 iBooks Author (2.5)
 appstore 408981434 iMovie (10.1.6)
 appstore 408981381 iPhoto (9.6.1)
 appstore 409183694 Keynote (7.2)
-appstore 539883307 LINE (5.2.1)
+appstore 539883307 LINE (5.2.2)
 appstore 634148309 Logic Pro X (10.3.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.27310)
 appstore 409203825 Numbers (4.2)
