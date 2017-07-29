@@ -5,7 +5,6 @@ tap caskroom/cask
 cask arduino
 cask avira-antivirus
 cask boostnote
-cask cleanarchiver
 cask dropbox
 cask ghdl
 cask github-desktop
@@ -40,6 +39,7 @@ brew gdbm
 brew gdk-pixbuf
 brew gettext
 brew ghc
+brew ghc@8.0
 brew ghostscript
 brew git
 brew git-flow
@@ -135,10 +135,12 @@ tap phinze/cask
 tap rcmdnk/file
 brew brew-file
 
+# Cask applications
+cask cleanarchiver
+
 # App Store applications
-appstore 443987910 1Password (6.7)
 appstore 648746831 AirJoy (1.0.0)
-appstore 490192174 Battery Health (5.4)
+appstore 490192174 Battery Health (5.5)
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
 appstore 430288399 BooklogScanForMac (1.0.0)
 appstore 406056744 Evernote (6.11.1)
@@ -149,7 +151,7 @@ appstore 408981381 iPhoto (9.6.1)
 appstore 409183694 Keynote (7.2)
 appstore 539883307 LINE (5.2.2)
 appstore 634148309 Logic Pro X (10.3.1)
-appstore 715768417 Microsoft Remote Desktop (8.0.27310)
+appstore 715768417 Microsoft Remote Desktop (8.0.27312)
 appstore 409203825 Numbers (4.2)
 appstore 711830901 OmniGraffle (6.6.2)
 appstore 409201541 Pages (6.2)
