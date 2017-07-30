@@ -105,6 +105,8 @@ brew pkg-config
 brew plantuml
 brew pth
 brew py2cairo
+brew pyenv
+brew pyenv-virtualenv
 brew pygobject
 brew pygtk
 brew python
@@ -139,6 +141,7 @@ brew brew-file
 cask cleanarchiver
 
 # App Store applications
+appstore 443987910 1Password (6.8)
 appstore 648746831 AirJoy (1.0.0)
 appstore 490192174 Battery Health (5.5)
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
@@ -147,13 +150,14 @@ appstore 406056744 Evernote (6.11.1)
 appstore 682658836 GarageBand (10.2.0)
 appstore 490152466 iBooks Author (2.5)
 appstore 408981434 iMovie (10.1.6)
+appstore 1018109117 Install OS X El Capitan (1.7.50)
 appstore 408981381 iPhoto (9.6.1)
 appstore 409183694 Keynote (7.2)
 appstore 539883307 LINE (5.2.2)
-appstore 634148309 Logic Pro X (10.3.1)
+appstore 634148309 Logic Pro X (10.3.2)
 appstore 715768417 Microsoft Remote Desktop (8.0.27312)
 appstore 409203825 Numbers (4.2)
-appstore 711830901 OmniGraffle (6.6.2)
+appstore 711830901 OmniGraffle (6.6.1)
 appstore 409201541 Pages (6.2)
 appstore 568494494 Pocket (1.6.2)
 appstore 1035516352 ScanSnap Cloud (1.2.10)
