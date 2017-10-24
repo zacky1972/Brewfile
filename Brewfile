@@ -1,26 +1,6 @@
 
 # tap repositories and their packages
 
-tap caskroom/cask
-cask arduino
-cask avira-antivirus
-cask boostnote
-cask chefdk
-cask dropbox
-cask ghdl
-cask google-chrome
-cask handbrake
-cask java
-cask kindle
-cask macdown
-cask mysqlworkbench
-cask skype
-cask sublime-text
-cask vagrant
-cask zoomus
-
-tap homebrew/bundle
-
 tap homebrew/core
 brew adns
 brew atk
@@ -64,6 +44,7 @@ brew harfbuzz
 brew heroku
 brew hicolor-icon-theme
 brew icu4c
+brew isl
 brew jasper
 brew jbig2dec
 brew jpeg
@@ -79,6 +60,7 @@ brew libgit2
 brew libgpg-error
 brew libiconv
 brew libksba
+brew libmpc
 brew libpng
 brew librsvg
 brew libssh2
@@ -92,6 +74,7 @@ brew libvo-aacenc
 brew libxml2
 brew libyaml
 brew little-cms2
+brew make
 brew mas
 brew mbedtls
 brew md5sha1sum
@@ -140,9 +123,29 @@ brew youtube-dl
 brew zsh
 brew zsh-completions
 
+tap homebrew/bundle
+
 tap homebrew/dupes
 
 tap homebrew/gui
+
+tap caskroom/cask
+cask arduino
+cask avira-antivirus
+cask boostnote
+cask chefdk
+cask dropbox
+cask ghdl
+cask google-chrome
+cask handbrake
+cask java
+cask kindle
+cask macdown
+cask mysqlworkbench
+cask skype
+cask sublime-text
+cask vagrant
+cask zoomus
 
 tap phinze/cask
 
@@ -150,43 +153,38 @@ tap rcmdnk/file
 brew brew-file
 
 tap staticfloat/julia
+brew arpack-julia
 brew julia
+brew llvm37-julia
 brew openblas-julia
-brew staticfloat/julia/arpack-julia
-brew staticfloat/julia/llvm37-julia
-brew staticfloat/julia/openblas-julia
-brew staticfloat/julia/suite-sparse-julia
+brew suite-sparse-julia
 
 # Cask applications
-cask github-desktop
 cask cleanarchiver
+cask github-desktop
 
 # App Store applications
-appstore 443987910 1Password (6.8.1)
+appstore 443987910 1Password (6.8.3)
 appstore 648746831 AirJoy (1.0.0)
 appstore 490192174 Battery Health (5.5)
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
 appstore 430288399 BooklogScanForMac (1.0.0)
-appstore 406056744 Evernote (6.12.1)
+appstore 406056744 Evernote (6.12.3)
 appstore 682658836 GarageBand (10.2.0)
-appstore 490152466 iBooks Author (2.5)
-appstore 408981434 iMovie (10.1.6)
-appstore 408981434 iMovie 9.0.9 (9.0.9)
+appstore 490152466 iBooks Author (2.6)
+appstore 408981434 iMovie (10.1.7)
 appstore 1018109117 Install OS X El Capitan (1.7.50)
 appstore 408981381 iPhoto (9.6.1)
-appstore 409183694 Keynote (5.3)
-appstore 409183694 Keynote (7.2)
-appstore 539883307 LINE (5.3.0)
+appstore 409183694 Keynote (7.3)
+appstore 539883307 LINE (5.3.3)
 appstore 634148309 Logic Pro X (10.3.2)
-appstore 715768417 Microsoft Remote Desktop (8.0.27319)
-appstore 409203825 Numbers (2.3)
-appstore 409203825 Numbers (4.2)
-appstore 711830901 OmniGraffle (6.6.2)
-appstore 409201541 Pages (4.3)
-appstore 409201541 Pages (6.2)
+appstore 715768417 Microsoft Remote Desktop (8.0.27325)
+appstore 409203825 Numbers (4.3)
+appstore 711830901 OmniGraffle (6.6.1)
+appstore 409201541 Pages (6.3)
 appstore 568494494 Pocket (1.6.2)
 appstore 1035516352 ScanSnap Cloud (1.2.10)
-appstore 803453959 Slack (2.6.2)
+appstore 803453959 Slack (2.8.2)
 appstore 409789998 Twitter (4.3.2)
 appstore 415166115 Typist (2.4.0)
-appstore 497799835 Xcode (8.3.3)
+appstore 497799835 Xcode (9.0)
