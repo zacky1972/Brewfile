@@ -5,16 +5,18 @@ tap caskroom/cask
 cask arduino
 cask avira-antivirus
 cask boostnote
+cask chefdk
 cask dropbox
 cask ghdl
-cask github-desktop
 cask google-chrome
 cask handbrake
 cask java
 cask kindle
 cask macdown
+cask mysqlworkbench
 cask skype
 cask sublime-text
+cask vagrant
 cask zoomus
 
 tap homebrew/bundle
@@ -32,8 +34,10 @@ brew docker-compose
 brew docker-machine
 brew emacs
 brew ffmpeg
+brew fftw
 brew fontconfig
 brew freetype
+brew gcc
 brew gd
 brew gdbm
 brew gdk-pixbuf
@@ -57,6 +61,7 @@ brew gtk+3
 brew gtk-mac-integration
 brew gts
 brew harfbuzz
+brew heroku
 brew hicolor-icon-theme
 brew icu4c
 brew jasper
@@ -70,11 +75,13 @@ brew libdvdcss
 brew libepoxy
 brew libffi
 brew libgcrypt
+brew libgit2
 brew libgpg-error
 brew libiconv
 brew libksba
 brew libpng
 brew librsvg
+brew libssh2
 brew libtasn1
 brew libtiff
 brew libtool
@@ -86,9 +93,12 @@ brew libxml2
 brew libyaml
 brew little-cms2
 brew mas
+brew mbedtls
 brew md5sha1sum
 brew mit-scheme
+brew mpfr
 brew mysql@5.6
+brew ncftp
 brew netpbm
 brew nettle
 brew nkf
@@ -99,6 +109,7 @@ brew openssl@1.1
 brew p11-kit
 brew pango
 brew pcre
+brew pcre2
 brew pinentry
 brew pixman
 brew pkg-config
@@ -118,6 +129,7 @@ brew rlwrap
 brew ruby-build
 brew shared-mime-info
 brew sqlite
+brew tree
 brew unrar
 brew webp
 brew wget
@@ -137,7 +149,16 @@ tap phinze/cask
 tap rcmdnk/file
 brew brew-file
 
+tap staticfloat/julia
+brew julia
+brew openblas-julia
+brew staticfloat/julia/arpack-julia
+brew staticfloat/julia/llvm37-julia
+brew staticfloat/julia/openblas-julia
+brew staticfloat/julia/suite-sparse-julia
+
 # Cask applications
+cask github-desktop
 cask cleanarchiver
 
 # App Store applications
