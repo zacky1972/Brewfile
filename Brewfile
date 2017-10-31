@@ -147,6 +147,8 @@ cask sublime-text
 cask vagrant
 cask zoomus
 
+tap caskroom/versions
+
 tap phinze/cask
 
 tap rcmdnk/file
@@ -176,11 +178,11 @@ appstore 539883307 LINE (5.3.3)
 appstore 634148309 Logic Pro X (10.3.2)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 409203825 Numbers (4.3)
-appstore 711830901 OmniGraffle (6.6.1)
+appstore 711830901 OmniGraffle (6.6.2)
 appstore 409201541 Pages (6.3)
 appstore 568494494 Pocket (1.6.2)
 appstore 1035516352 ScanSnap Cloud (1.2.10)
 appstore 803453959 Slack (2.8.2)
 appstore 409789998 Twitter (4.3.2)
 appstore 415166115 Typist (2.4.0)
-appstore 497799835 Xcode (9.0)
+appstore 497799835 Xcode (9.0.1)
