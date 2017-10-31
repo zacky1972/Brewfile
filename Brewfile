@@ -159,9 +159,6 @@ brew llvm37-julia
 brew openblas-julia
 brew suite-sparse-julia
 
-# Cask applications
-cask github-desktop
-
 # App Store applications
 appstore 443987910 1Password (6.8.3)
 appstore 648746831 AirJoy (1.0.0)
