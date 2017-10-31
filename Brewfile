@@ -160,7 +160,6 @@ brew openblas-julia
 brew suite-sparse-julia
 
 # Cask applications
-cask cleanarchiver
 cask github-desktop
 
 # App Store applications
