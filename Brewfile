@@ -161,28 +161,32 @@ brew llvm37-julia
 brew openblas-julia
 brew suite-sparse-julia
 
+# Cask applications
+cask cleanarchiver
+cask github-desktop
+
 # App Store applications
-appstore 443987910 1Password (6.8.3)
+appstore 443987910 1Password (6.8.4)
 appstore 648746831 AirJoy (1.0.0)
 appstore 490192174 Battery Health (5.5)
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
 appstore 430288399 BooklogScanForMac (1.0.0)
-appstore 406056744 Evernote (6.12.3)
+appstore 406056744 Evernote (6.13)
 appstore 682658836 GarageBand (10.2.0)
 appstore 490152466 iBooks Author (2.6)
-appstore 408981434 iMovie (10.1.7)
+appstore 408981434 iMovie (10.1.8)
 appstore 1018109117 Install OS X El Capitan (1.7.50)
 appstore 408981381 iPhoto (9.6.1)
-appstore 409183694 Keynote (7.3)
-appstore 539883307 LINE (5.3.3)
+appstore 409183694 Keynote (7.3.1)
+appstore 539883307 LINE (5.4.2)
 appstore 634148309 Logic Pro X (10.3.2)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
-appstore 409203825 Numbers (4.3)
-appstore 711830901 OmniGraffle (6.6.2)
-appstore 409201541 Pages (6.3)
+appstore 409203825 Numbers (4.3.1)
+appstore 711830901 OmniGraffle (6.6.1)
+appstore 409201541 Pages (6.3.1)
 appstore 568494494 Pocket (1.6.2)
 appstore 1035516352 ScanSnap Cloud (1.2.10)
-appstore 803453959 Slack (2.8.2)
+appstore 803453959 Slack (2.9.0)
 appstore 409789998 Twitter (4.3.2)
 appstore 415166115 Typist (2.4.0)
-appstore 497799835 Xcode (9.0.1)
+appstore 497799835 Xcode (9.1)
