@@ -130,7 +130,7 @@ cask arduino
 cask avira-antivirus
 cask boostnote
 cask dropbox
-cask ghdl
+# cask ghdl
 cask google-chrome
 cask handbrake
 cask java
