@@ -158,7 +158,7 @@ brew suite-sparse-julia
 
 # Cask applications
 # cask cleanarchiver
-cask github-desktop
+# cask github-desktop
 
 # App Store applications
 appstore 443987910 1Password (6.8.4)
