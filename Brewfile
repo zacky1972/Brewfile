@@ -149,12 +149,12 @@ tap phinze/cask
 tap rcmdnk/file
 brew brew-file
 
-tap staticfloat/julia
-brew arpack-julia
-brew julia
-brew llvm37-julia
-brew openblas-julia
-brew suite-sparse-julia
+#tap staticfloat/julia
+#brew arpack-julia
+#brew julia
+#brew llvm37-julia
+#brew openblas-julia
+#brew suite-sparse-julia
 
 # Cask applications
 # cask cleanarchiver
