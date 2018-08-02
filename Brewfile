@@ -125,8 +125,6 @@ brew zsh-completions
 
 tap homebrew/bundle
 
-tap homebrew/dupes
-
 tap homebrew/gui
 
 tap caskroom/cask
