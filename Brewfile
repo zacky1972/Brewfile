@@ -12,11 +12,14 @@ brew dirmngr
 brew docker
 brew docker-compose
 brew docker-machine
+brew elixir-build
 brew emacs
+brew exenv
 brew ffmpeg
 brew fftw
 brew fontconfig
 brew freetype
+brew fribidi
 brew gcc
 brew gd
 brew gdbm
@@ -59,6 +62,7 @@ brew libgcrypt
 brew libgit2
 brew libgpg-error
 brew libiconv
+brew libidn2
 brew libksba
 brew libmpc
 brew libpng
@@ -104,7 +108,7 @@ brew pyenv-virtualenv
 brew pygobject
 brew pygtk
 brew python
-brew python3
+brew python@2
 brew rbenv
 brew rbenv-gemset
 brew readline
@@ -125,64 +129,56 @@ brew zsh-completions
 
 tap homebrew/bundle
 
-tap caskroom/cask
-cask arduino
-cask avira-antivirus
-cask boostnote
-cask dropbox
-# cask ghdl
-cask google-chrome
-cask handbrake
-cask java
-cask kindle
-cask macdown
-cask mysqlworkbench
-cask skype
-cask sublime-text
-cask vagrant
-cask zoomus
+tap homebrew/cask-versions
 
-tap caskroom/versions
+tap homebrew/cask
+cask arduino
+cask boostnote
+cask google-chrome
+cask java
+cask macdown
+cask skype
+cask vagrant
+
+tap argon/mas
 
 tap phinze/cask
+cask avira-antivirus
+cask handbrake
+cask mysqlworkbench
+cask zoomus
 
 tap rcmdnk/file
 brew brew-file
 
-#tap staticfloat/julia
-#brew arpack-julia
-#brew julia
-#brew llvm37-julia
-#brew openblas-julia
-#brew suite-sparse-julia
+tap staticfloat/julia
 
-# Cask applications
-# cask cleanarchiver
-# cask github-desktop
+# Other Cask applications
+cask dropbox
+cask kindle
+cask sublime-text
 
 # App Store applications
-appstore 443987910 1Password (6.8.4)
-# appstore 648746831 AirJoy (1.0.0)
-appstore 490192174 Battery Health (5.5)
+appstore 443987910 1Password (6.8.9)
+appstore 490192174 Battery Health (5.9)
 appstore 425264550 Blackmagic Disk Speed Test (3.1)
 appstore 430288399 BooklogScanForMac (1.0.0)
-appstore 406056744 Evernote (6.13.1)
-appstore 682658836 GarageBand (10.2.0)
+appstore 406056744 Evernote (7.2.3)
+appstore 682658836 GarageBand (10.3.1)
 appstore 490152466 iBooks Author (2.6)
-appstore 408981434 iMovie (10.1.8)
-appstore 1018109117 Install OS X El Capitan (1.7.50)
+appstore 408981434 iMovie (10.1.9)
 appstore 1018109117 Install OS X El Capitan (1.7.50)
 appstore 408981381 iPhoto (9.6.1)
-appstore 409183694 Keynote (7.3.1)
-appstore 539883307 LINE (5.4.2)
-appstore 634148309 Logic Pro X (10.3.2)
+appstore 409183694 Keynote (8.1)
+appstore 539883307 LINE (5.8.0)
+appstore 634148309 Logic Pro X (10.4.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
-appstore 409203825 Numbers (4.3.1)
-appstore 711830901 OmniGraffle (6.6.1)
-appstore 409201541 Pages (6.3.1)
-appstore 568494494 Pocket (1.6.2)
+appstore 409203825 Numbers (5.1)
+appstore 711830901 OmniGraffle (6.6.2)
+appstore 409201541 Pages (7.1)
+appstore 568494494 Pocket (1.7.9)
 appstore 1035516352 ScanSnap Cloud (1.2.10)
-appstore 803453959 Slack (2.9.0)
+appstore 803453959 Slack (3.2.0)
 appstore 409789998 Twitter (4.3.2)
 appstore 415166115 Typist (2.4.0)
-appstore 497799835 Xcode (9.1)
+appstore 497799835 Xcode (9.4.1)
