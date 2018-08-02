@@ -129,7 +129,6 @@ tap caskroom/cask
 cask arduino
 cask avira-antivirus
 cask boostnote
-cask chefdk
 cask dropbox
 cask ghdl
 cask google-chrome
