@@ -125,8 +125,6 @@ brew zsh-completions
 
 tap homebrew/bundle
 
-tap homebrew/gui
-
 tap caskroom/cask
 cask arduino
 cask avira-antivirus
